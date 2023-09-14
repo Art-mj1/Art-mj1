@@ -5,7 +5,7 @@
 - 🔭 I’m all ears to other ideas
 - 🌱 I’m currently learning front-end develop
 - 👯 I want to efficient Web & App developer next 10 years.
-- 😄 I like listening k-balad music and I like swimming at swimming pool
+- 😄 I like listening K-balad music and I like swimming at swimming pool
 
 ## My Stack
   <div style="flex">
