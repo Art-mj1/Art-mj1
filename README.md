@@ -1,4 +1,4 @@
-### Nice to meet you, My name is MinJi Park. I did recently a small project with React and TypeScript. 👋
+### Nice to meet you, My name is MinJi Park. I did recently a project with React and TypeScript. 👋
 
 ## Introduce myself
 
