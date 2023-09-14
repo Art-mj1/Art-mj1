@@ -18,7 +18,7 @@
   
   </div>
 
-<h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
+<h3>👩‍💻 My Github Stats 👩‍💻</h3>
 <div align="center">
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Art-mj1)](https://github.com/anuraghazra/github-readme-stats)
