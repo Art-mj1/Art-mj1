@@ -25,6 +25,10 @@
 </div>
 </div>
 
+<h3>My Award</h3>
+
+![항해15기 앙케이트 상장 - 박민지](https://github.com/Art-mj1/Art-mj1/assets/84562787/0de516ab-ec80-422f-b576-d2b7f9b746be)
+
 
 
 
